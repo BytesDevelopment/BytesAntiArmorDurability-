@@ -1,0 +1,3 @@
+name: AntiArmorOverlay
+version: '${project.version}'
+main: net.sixy.bytesdevelopment.antiarmoroverlay.AntiArmorOverlay
